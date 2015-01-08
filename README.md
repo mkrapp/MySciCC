@@ -4,16 +4,16 @@ Here are my favorite tools and approaches to do my daily scientific work.
 
 **Table of Contents**
 
-- [Coding](#)
-  - [Programming languages](#)
-		- [Java](#)
-		- [Python](#)
-		- [C](#)
-  - [Version control](#)
-		- [Git](#)
-  - [code optimization](#)
-- [Collaboration](#)
-- [Productivity](#)
+- [Coding](#coding)
+  - [Programming languages](#prgramming-languages)
+		- [Java](#java)
+		- [Python](#python)
+		- [C](#c)
+  - [Version control](#version-control)
+		- [Git](#git)
+  - [Code optimization](#code-optimization)
+- [Collaboration](#collaboration)
+- [Productivity](#productivity)
 
 ## Coding
 
@@ -27,7 +27,7 @@ Here are my favorite tools and approaches to do my daily scientific work.
 
 #### Git
 
-### code optimization
+### Code optimization
 
 Collaboration
 -------------
