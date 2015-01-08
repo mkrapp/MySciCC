@@ -2,8 +2,18 @@
 
 Here are my favorite tools and approaches to do my daily scientific work.
 
-* auto-gen TOC:
-{:toc}
+**Table of Contents**
+
+- [Coding](#)
+  - [Programming languages](#)
+		- [Java](#)
+		- [Python](#)
+		- [C](#)
+  - [Version control](#)
+		- [Git](#)
+  - [code optimization](#)
+- [Collaboration](#)
+- [Productivity](#)
 
 ## Coding
 
