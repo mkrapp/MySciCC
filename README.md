@@ -6,7 +6,7 @@ Here are my favorite tools and approaches to do my daily scientific work.
 
 - [Coding](#coding)
   - [Reading](#reading)
-  - [Programming languages](#prgramming-languages)
+  - [Programming languages](#programming-languages)
 		- [Java](#java)
 		- [Python](#python)
 		- [C](#c)
