@@ -4,6 +4,7 @@ Here are my favorite tools and approaches to do my daily scientific work.
 
 **Table of Contents**
 
+- [Data Processing](#data-processing)
 - [Coding](#coding)
   - [Programming languages](#programming-languages)
     - [Java](#java)
@@ -17,6 +18,11 @@ Here are my favorite tools and approaches to do my daily scientific work.
 - [Collaboration](#collaboration)
 - [Productivity](#productivity)
 - [Reading](#reading)
+
+## Data Processing
+
+- [GDAL](http://gdal.org): Convert between different geospatial data formats; favorite tool: `gdal_translate`
+- [CDO](https://code.zmaw.de/projects/cdo): The Climate Data Operators are my favorite tool to manipulate netCDF files, e.g., doing basic statistics, merging, splitting, remapping, etc..
 
 ## Coding
 
